@@ -1,1 +1,1 @@
-print("My name is Yerassyl and wby?")
+print("My name is Almas and wby?")
